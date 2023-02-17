@@ -1,17 +1,17 @@
-//reset
-
-* {
+/*reset*/
+*{
     margin: 0;
-    padding:0;
-    text-decoration: none;
-    color: #fff;
+    padding: 0;
+    border: 0;
+    outline: none;
+    box-sizing: border-box;
 }
 
 body{
     background-color: #161616;
 }
 
-//header
+/*header*/
 
 #header{
     color: #fff;
@@ -21,29 +21,28 @@ body{
     position: relative;
     background: #ccc;
     font-size: 1em;
-    t
 }
 
-//asside
+/*aside*/
 
-asside{
+aside{
 
 }
 
-//nav-menu
+/*menu*/
 
 nav{
 
 }
 
 
-//content
+/*content*/
 
 section{
 
 }
 
-//footer
+/*footer*/
 
 footer{
 
